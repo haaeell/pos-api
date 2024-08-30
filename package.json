@@ -1,0 +1,11 @@
+{
+    "name": "my-api",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "vercel dev"
+    },
+    "dependencies": {
+        "@vercel/node": "^2.0.0",
+        "mysql2": "^3.11.0"
+    }
+}
